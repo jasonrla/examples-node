@@ -1,3 +1,4 @@
+//changes remotely
 function fizzbuzz(){
     for(let i=0; i<100; i++){
         let num=i;
@@ -10,7 +11,7 @@ function fizzbuzz(){
         else if(num%5 === 0){
             num = 'buzz'
         }
-        console.log(num)
+        console.log("num: ", num)
     }
 }
 
