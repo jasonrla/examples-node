@@ -11,7 +11,7 @@ function fizzbuzz(){
         else if(num%5 === 0){
             num = 'buzz'
         }
-        console.log("num -> ", num)
+        console.log("num test2 -> ", num)
     }
 }
 
